@@ -28,5 +28,5 @@ En cada misión se analiza el código original, se identifica el error, se propo
 ## Ejecución
 
 1. Abrir `6102TA_02_Martret_Jaime.ipynb`.
-2. Seleccionar el kernel `Python 3.13 - Colecciones 6102`.
+2. Seleccionar el entorno virtual del proyecto o cualquier kernel compatible con Python 3.
 3. Ejecutar las celdas en orden.
